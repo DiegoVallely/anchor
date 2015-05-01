@@ -97,13 +97,13 @@ map(sum,list(combination(coins)))
  24,
  22,
  33]
- ```
+```
 
  So if the sum is 23 in the 14th position I have [1,2,4] which is [5,7,11].
  That was my solution withou the **knapsack problem**.
 
  But, in terms of computional thinking, I suppose that the use of **knapsack problem** was the best aproach. In the general this problem is NP-Complete, I choose use it as recursive function and memoization (see *views.py*).
 
- ## The web response
+## The web response
 
 First, I've created a server with Django framework because I'm more comfortable in using it (rs) and you don't put restrictions for it. However, as you use the Pyramid framework, I took more time to learn how it works. I already hear spoken of Pyramid but don't use it yet and I enjoy use it :) It is pure Python.
