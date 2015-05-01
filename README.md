@@ -102,7 +102,7 @@ map(sum,list(combination(coins)))
  So if the sum is 23 in the 14th position I have [1,2,4] which is [5,7,11].
  That was my solution withou the **knapsack problem**.
 
- But, in terms of computional thinking, I suppose that the use of **knapsack problem** was the best aproach. In the general this problem is NP-Complete, I choose use it as recursive function and memoization (see *views.py*).
+ But, in terms of computional thinking, I suppose that the use of **knapsack problem** was the best aproach. So, I started studying it. In the general this problem is NP-Complete, I choose use it as recursive function and memoization (see *views.py*).
 
 ## The web response
 
