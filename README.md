@@ -3,7 +3,7 @@
 
 The proplem solution using **knapsack problem**
 
-But first, I've calculated the total of each combination for each coins as following:
+But first, I calculated the total of each combination for each coins as following:
 
 ```python
 from itertools import *
